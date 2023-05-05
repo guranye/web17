@@ -26,5 +26,6 @@
 //提交:git push -u 别名 分支名
 
 //使用ssh登录
-//1、创建公共key：ssh -key
+//1、创建公共key：ssh-keygen
 
+//git拉取远程仓库:git pull 远程git仓库地址
