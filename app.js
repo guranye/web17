@@ -29,3 +29,5 @@
 //1、创建公共key：ssh-keygen
 
 //git拉取远程仓库:git pull 远程git仓库地址
+
+//克隆远程仓库:git clone 远程git仓库地址
